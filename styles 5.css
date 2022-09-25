@@ -1,0 +1,11 @@
+.redcircle {
+
+    border: 100px solid red;
+    width: 150px;
+    background-color: red;
+    border-radius: 100%;
+    height: 150px;
+
+    margin: 40px auto;
+
+}

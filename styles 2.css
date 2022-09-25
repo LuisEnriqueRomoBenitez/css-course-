@@ -1,0 +1,141 @@
+body {
+
+margin: 100px;
+
+}
+
+.second{
+
+    text-align: center;
+
+}
+
+.text1 {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+
+    color: #0f1419;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    background-color: aliceblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 400px;
+    height: 24px;
+
+
+}
+
+ .logo {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.re {
+
+    background-color: red;
+    height: 100px;
+    margin-bottom: 25px;
+
+}
+
+.bue {
+
+    background-color: blue;
+    height: 100px;
+    margin-bottom: 20px;
+
+}
+
+.gren {
+
+    background-color: green;
+    height: 100px;
+}
+
+/*This is for a margin behind the text*/
+.card {
+
+    color: chocolate;
+    background-color: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 5px solid black;
+    border-radius: 20px;
+
+    /*This is for the all of values of padding get the same characteristics, but if u want to asign once for once, you need write like "padding-top"*/
+
+    padding-top: 100px;
+    padding-right: 100px;
+
+}
+
+.twitter {
+
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    width: 80px;
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+
+}
+
+.btn {
+
+    margin-top: 10px;
+    color: black;
+    border: 1px solid #f8f9fa;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #dfe1e5;
+    border-radius: 4px;
+
+    
+}
+
+.btn2{
+
+    
+    margin-top: 10px;
+    color: black;
+    border: 1px solid #f8f9fa;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #dfe1e5;
+    border-radius: 4px;
+
+}
+
+
+.btn-wrapper {
+
+    display: flex;
+    justify-content: center;
+
+}

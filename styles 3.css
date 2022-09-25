@@ -1,0 +1,38 @@
+.image {
+
+    width: 150px;
+
+
+}
+
+.image1 {
+
+   
+
+}
+
+.card {
+
+    
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    border-bottom: 5px solid #d8cefe;
+    background-color: #ddebf8;
+    margin: 0 auto;
+
+
+}
+
+.text {
+
+    
+    text-align: center;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+    
+
+}
+
